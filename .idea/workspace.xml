@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e05d18a-d985-49f1-b1d6-9d89fb13f27d" name="Changes" comment="implementing key listener class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/eclud/KeyListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="7e05d18a-d985-49f1-b1d6-9d89fb13f27d" name="Changes" comment="implementing a simple scene management">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/eclud/LevelEditorScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/eclud/LevelScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/eclud/Scene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/eclud/utils/Time.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/eclud/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/eclud/Window.java" afterDir="false" />
     </list>
@@ -117,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698467609175</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="implementing key listener class">
+      <option name="closed" value="true" />
+      <created>1698533958824</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698533958824</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -125,6 +135,7 @@
     <MESSAGE value="Initial commit and create window" />
     <MESSAGE value="implementing mouse listener class" />
     <MESSAGE value="implementing key listener class" />
-    <option name="LAST_COMMIT_MESSAGE" value="implementing key listener class" />
+    <MESSAGE value="implementing a simple scene management" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementing a simple scene management" />
   </component>
 </project>
